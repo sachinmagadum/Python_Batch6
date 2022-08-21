@@ -14,3 +14,10 @@ def substarction(a,b):
 
 ans = substarction(a,b)
 print(f"Subtraction is {ans}")
+
+
+def mul(a,b):
+    return a * b
+
+ans = mul(a,b)
+print(f"Multiplication is {ans}")
